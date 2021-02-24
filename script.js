@@ -90,7 +90,7 @@ else
 {
   switchPlayer();
 }
-  }
+ }
 })
 
 btnNew.addEventListener('click',init);
